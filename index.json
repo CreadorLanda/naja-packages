@@ -10,6 +10,15 @@
           "description": "Módulo NajaScript: MathUtils"
         }
       }
+    },
+    "games": {
+      "description": "Módulo NajaScript: games",
+      "versions": {
+        "latest": {
+          "added": "2025-04-26T23:21:15.669131",
+          "description": "Módulo NajaScript: games"
+        }
+      }
     }
   }
 }

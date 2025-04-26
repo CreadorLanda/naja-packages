@@ -1,0 +1,5 @@
+// games module
+
+export fun info() {
+    return "Package games version latest";
+}
